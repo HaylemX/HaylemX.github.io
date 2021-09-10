@@ -2,6 +2,16 @@ body {
    background-image: url("https://images.unsplash.com/photo-1476362555312-ab9e108a0b7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80");
 }
 
+.exp-header {
+  color:white;
+  
+}
+
+p {
+  color: white;
+  margin-left: 150px;
+}
+
 h1 {
   color: #ffffe0;
   background-color: #B2AC88;
@@ -10,7 +20,7 @@ h1 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h3, h2 {
+.exp-header {
   color: black;
   background-color: white;
   margin-left: 150px;
@@ -19,6 +29,49 @@ h3, h2 {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h4, h5, h6 {
-  margin-left: 144px
+h2 {
+  color: black;
+  background-color: white;
+  margin-left: 150px;
+  margin-right: 150px;
+  padding-left: 50px;
+  font-size: 22px;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+h4, h5, h6 {
+  color: white;
+  margin-left: 150px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.titleone, .titletwo, .titlethree {
+  color: white; 
+  margin-left: 210px;
+  font-size: 20px
+}
+
+img {
+  width: 200px;
+    margin-left: 200px;
+}
+
+.info1, .info2, .info3 {
+  color: white;
+  margin-left: 175px;
+}
+
+.footer {
+  color: red;
+  margin-left: 100px;
+    
+}
+
+
+
+
+
+
+
+
+
