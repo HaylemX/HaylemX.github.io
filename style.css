@@ -1,5 +1,6 @@
 body {
    background-image: url("https://images.unsplash.com/photo-1476362555312-ab9e108a0b7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80");
+   text-align: center;
 }
 
 .exp-header {
@@ -9,61 +10,54 @@ body {
 
 p {
   color: white;
-  margin-left: 150px;
 }
 
 h1 {
   color: #ffffe0;
   background-color: #B2AC88;
   font-size: 40px;
-  padding-left: 180px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .exp-header {
   color: black;
   background-color: white;
-  margin-left: 150px;
-  margin-right: 150px;
-  padding-left: 45px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
   color: black;
   background-color: white;
-  margin-left: 150px;
-  margin-right: 150px;
-  padding-left: 50px;
   font-size: 22px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h4, h5, h6 {
   color: white;
-  margin-left: 150px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 .titleone, .titletwo, .titlethree {
   color: white; 
-  margin-left: 210px;
-  font-size: 20px
+  font-size: 20px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
   width: 200px;
-    margin-left: 200px;
+  vertical-align:middle;
+
 }
 
 .info1, .info2, .info3 {
   color: white;
-  margin-left: 175px;
+
 }
 
 .footer {
   color: red;
-  margin-left: 100px;
+  
     
 }
 
