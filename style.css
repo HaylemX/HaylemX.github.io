@@ -1,22 +1,24 @@
 body {
    background-image: url("https://c4.wallpaperflare.com/wallpaper/807/752/52/abstract-minimalistic-hexagons-textures-artwork-honeycomb-1920x1080-abstract-textures-hd-art-wallpaper-thumb.jpg");
-   text-align: center;
    font-family: Arial, Helvetica, sans-serif;
+   text-align: center;
 }
 
-.exp-header {
-  color:white;
-  
-}
-
-p {
+.subheader {
   color: white;
+  font-size: 20px;
+  font-weight: 500;
+}
+  
+p {
+  color: ;
 }
 
 h1 {
   color: #ffffe0;
   background-color: #DC143C;
   font-size: 40px;
+  text-align: center;
  
 }
 
@@ -28,7 +30,7 @@ h1 {
 
 h2 {
   color: black;
-  background-color: white;
+  background-color: #429bb8;
   font-size: 22px;
  
 }
@@ -60,5 +62,6 @@ h4, h5, h6 {
 }
 
 .footer {
-  color: red;  
+  color: red;
+ 
 }
