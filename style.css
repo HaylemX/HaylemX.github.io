@@ -1,5 +1,5 @@
 body {
-   background-image: url("https://images.unsplash.com/photo-1476362555312-ab9e108a0b7e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80");
+   background-image: url("https://c4.wallpaperflare.com/wallpaper/807/752/52/abstract-minimalistic-hexagons-textures-artwork-honeycomb-1920x1080-abstract-textures-hd-art-wallpaper-thumb.jpg");
    text-align: center;
 }
 
@@ -38,8 +38,7 @@ h4, h5, h6 {
 }
 
 .titleone, .titletwo, .titlethree {
-  color: #B2AC88; 
-  border: 1px sol
+  color: gold; 
   font-size: 20px;
   margin-right: 25px;
   display: flex;
