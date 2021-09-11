@@ -11,7 +11,7 @@ body {
 }
   
 p {
-  color: ;
+  color: white;
 }
 
 h1 {
@@ -41,7 +41,7 @@ h4, h5, h6 {
 }
 
 .titleone, .titletwo, .titlethree {
-  color: gold; 
+  color: white; 
   font-size: 25px;
   margin-right: 25px;
   display: flex;
