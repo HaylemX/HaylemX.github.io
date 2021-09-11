@@ -40,26 +40,32 @@ h4, h5, h6 {
 .titleone, .titletwo, .titlethree {
   color: white; 
   font-size: 20px;
-  text-align: center;
+  margin-right: 25px;
+  display: flex;
+  justify-content: center;
   font-family: Arial, Helvetica, sans-serif;
 }
 
-img {
+.img {
   width: 200px;
   vertical-align:middle;
-
 }
 
 .info1, .info2, .info3 {
   color: white;
+  display: flex;
+  justify-content: center;
 
 }
 
 .footer {
   color: red;
-  
     
 }
+
+
+
+
 
 
 
