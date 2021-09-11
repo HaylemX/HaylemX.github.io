@@ -38,7 +38,8 @@ h4, h5, h6 {
 }
 
 .titleone, .titletwo, .titlethree {
-  color: white; 
+  color: #B2AC88; 
+  border: 1px sol
   font-size: 20px;
   margin-right: 25px;
   display: flex;
