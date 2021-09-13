@@ -47,6 +47,7 @@ h4, h5, h6 {
   display: flex;
   justify-content: center;
   border-top: 1px solid #DC143C;
+  padding: 1px;
   
 }
 
@@ -59,10 +60,18 @@ h4, h5, h6 {
   color: white;
   display: flex;
   justify-content: center;
+  padding: 25px;
 
 }
 
 .footer {
   color: red;
+  padding: 1px;
  
+}
+
+H6 {
+  color: red;
+  font-size: 15px;
+  padding: 1px;
 }
