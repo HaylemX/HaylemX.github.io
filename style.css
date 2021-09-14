@@ -7,10 +7,25 @@ body {
 
 <!-- Hope You Enjoyed! Still Learning and loving every moment! -->
 
-a:visited { 
- text-decoration: none; 
- color: blue;
- 
+ a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
 }
 
 .selfie {
@@ -18,7 +33,7 @@ a:visited {
   float: center;
   
 }
-a:hover { text-decoration: none; color: green;}
+
   
 p {
   color: white;
