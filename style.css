@@ -19,12 +19,6 @@ a:visited {
   
 }
 a:hover { text-decoration: none; color: green;}
-
-.subheader {
-  color: white;
-  font-size: 20px;
-  font-weight: 500;
-}
   
 p {
   color: white;
@@ -35,6 +29,7 @@ h1 {
   background-color: #DC143C;
   font-size: 40px;
   border-radius: 10px;
+  font-family: 'Nunito', sans-serif;
   
 }
 
