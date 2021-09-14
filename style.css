@@ -12,6 +12,11 @@ a:visited {
  
 }
 
+.selfie {
+  width: 50px;
+  float: left;
+  
+}
 a:hover { text-decoration: none; color: green;}
 
 .subheader {
