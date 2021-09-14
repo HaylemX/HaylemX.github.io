@@ -2,6 +2,7 @@ body {
    background-image: url("https://c4.wallpaperflare.com/wallpaper/807/752/52/abstract-minimalistic-hexagons-textures-artwork-honeycomb-1920x1080-abstract-textures-hd-art-wallpaper-thumb.jpg");
    font-family: Arial, Helvetica, sans-serif;
    text-align: center;
+   
 }
 
 <!-- Hope You Enjoyed! Still Learning and loving every moment! -->
@@ -14,7 +15,7 @@ a:visited {
 
 .selfie {
   width: 130px;
-  float: left;
+  float: center;
   
 }
 a:hover { text-decoration: none; color: green;}
@@ -33,9 +34,8 @@ h1 {
   color: #ffffe0;
   background-color: #DC143C;
   font-size: 40px;
-  text-align: center;
   border-radius: 10px;
- 
+  
 }
 
 .exp-header {
