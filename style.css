@@ -4,6 +4,11 @@ body {
    text-align: center;
 }
 
+a:visited { 
+ text-decoration: none; 
+ color: white;
+}
+
 .subheader {
   color: white;
   font-size: 20px;
