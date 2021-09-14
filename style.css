@@ -4,13 +4,15 @@ body {
    text-align: center;
 }
 
+<!-- Hope You Enjoyed! Still Learning and loving every moment! -->
+
 a:visited { 
  text-decoration: none; 
  color: blue;
  
 }
 
-a:hover { text-decoration: none;}
+a:hover { text-decoration: none; color: green;}
 
 .subheader {
   color: white;
