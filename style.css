@@ -129,8 +129,11 @@ p {
   background-image: url("https://www.mckinsey.com/~/media/mckinsey/mckinsey%20quarterly/the%20five%20fifty/soft-skills-1536x1536.png");
   border-radius:100px;
   padding: 1px;
-  background-position: -300px;
+  background-position: -800px;
   text-align:center;
+  
+  
+ 
   
 }
 
@@ -146,8 +149,11 @@ p {
   background-image: url("https://cdn.tutsplus.com/cdn-cgi/image/width=600/vector/uploads/2013/10/whycantyoudraw_2-2_stickmen.png");
   border-radius:100px;
   padding: 1px;
-  background-position: 70px;
+  background-position: -800px;
   text-align:center;
+  
+  
+  
 
 }
 
