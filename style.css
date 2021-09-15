@@ -96,9 +96,12 @@ H6 {
 }
 
 .media {
+  border-radius: 100px;
   color: white;
   padding:20px;
-  font-size:20px;
+  font-size:30px;
+  font-family: 'Azeret Mono', monospace; 
+  background-image: url("https://media.istockphoto.com/photos/blue-glowing-plasma-lightning-picture-id695110892?k=20&m=695110892&s=612x612&w=0&h=Tt9TlZ67FP05OF-7HJyOybpZBnmlqh641oiq8K-M774=")
 }
 
 .link{
