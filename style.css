@@ -98,7 +98,6 @@ H6 {
 
 .media {
   border-radius: 100px;
-  margin-left: 120px;
   color: white;
   font-weight: 100px;
   padding:10px;
@@ -111,6 +110,7 @@ H6 {
 }
 
 .link{
+  margin-left: 37px;
   padding: 10px;
   border-radius:100px;
   background-image: url("https://sothebys-com.brightspotcdn.com/dims4/default/aeb0f39/2147483647/strip/true/crop/1904x1315+0+0/resize/684x472!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fdotcom%2Fb9%2F5f%2Fd4b55ee64cadb1a43165305c2990%2F068hk0732-9fcmh.jpg");
@@ -119,8 +119,7 @@ H6 {
   
 }
 
-
-.link:hover {
+.link:hover, .media:hover {
  background-position: -100px;
   
 } 
